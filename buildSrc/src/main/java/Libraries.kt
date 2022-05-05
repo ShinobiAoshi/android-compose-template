@@ -1,6 +1,6 @@
 object Libraries {
     object Versions {
-        const val KOTLIN = "1.6.21"
+        const val KOTLIN = "1.6.10"
         const val COROUTINES_ANDROID = "1.3.9"
         const val MOSHI = "1.13.0"
         const val RETROFIT = "2.9.0"

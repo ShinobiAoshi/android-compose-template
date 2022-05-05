@@ -65,6 +65,7 @@ dependencies {
     implementation(Libraries.Dependencies.COROUTINES_ANDROID)
     implementation(Libraries.Dependencies.RETROFIT)
     implementation(Libraries.Dependencies.HTTP_LOGGING_INTERCEPTOR)
+    implementation(Libraries.Dependencies.AndroidX.LIFECYCLE_VIEWMODEL_COMPOSE)
 
     testImplementation(Testing.Dependencies.JUnit.CORE)
     androidTestImplementation(Testing.Dependencies.JUnit.EXTENSION)
